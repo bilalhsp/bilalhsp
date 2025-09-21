@@ -25,7 +25,6 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
   </tr>
 </table>
 
-
 ---
 
 ### 📂 Featured Projects
@@ -51,28 +50,6 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
     </td>
   </tr>
 </table>
-
----
-
-
-
-
-
----
-
-### 🌐 Find me around the web
-- Personal Website: [bilalhsp.github.io](https://bilalhsp.github.io/)  
-- Google Scholar: [Profile](https://scholar.google.com/) <!-- replace with your actual scholar link if you want -->
-- LinkedIn: [linkedin.com/in/bilalhsp](https://www.linkedin.com/in/bilalhsp)  
-
----
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhsp&layout=compact&theme=tokyonight)
-
-
-
-
 
 <!--
 
