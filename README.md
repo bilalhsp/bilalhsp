@@ -5,16 +5,26 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
 
 ---
 
-### 🔭 What I’m working on
-- Solving inverse problems using **diffusion models**  
-- Understanding the **auditory cortex** using deep learning  
-- Pretraining audio models on natural sound datasets  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 What I’m working on</h3>
+      <ul>
+        <li>Solving inverse problems using <b>diffusion models</b></li>
+        <li>Understanding the <b>auditory cortex</b> using deep learning</li>
+        <li>Pretraining audio models on natural sound datasets</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 What I’m learning</h3>
+      <ul>
+        <li>Numerical solutions of <b>ODEs</b></li>
+        <li>Self-supervised and generative modeling techniques</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🌱 What I’m learning
-- Numerical solutions of **ODEs**  
-- Self-supervised and generative modeling techniques  
 
 ---
 
