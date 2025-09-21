@@ -27,19 +27,17 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
 
 <table>
   <tr>
-    <td width="55%">
-      
-      ### 📊 GitHub Stats  
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhsp&layout=compact&theme=tokyonight)
-    
+    <td width="55%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhsp&layout=compact&theme=tokyonight" alt="Top Langs" />
     </td>
-    <td width="45%">
-      
-      ### 🌐 Find me around the web  
-      - 🌍 Personal Website: [bilalhsp.github.io](https://bilalhsp.github.io/)  
-      - 📄 Google Scholar: [Profile](https://scholar.google.com/) <!-- replace with actual link -->  
-      - 💼 LinkedIn: [linkedin.com/in/bilalhsp](https://www.linkedin.com/in/bilalhsp)  
-    
+    <td width="45%" valign="top">
+      <h3>🌐 Find me around the web</h3>
+      <ul>
+        <li>🌍 <a href="https://bilalhsp.github.io/">Personal Website</a></li>
+        <li>📄 <a href="https://scholar.google.com/">Google Scholar</a> <!-- replace with actual link --></li>
+        <li>💼 <a href="https://www.linkedin.com/in/bilalhsp">LinkedIn</a></li>
+      </ul>
     </td>
   </tr>
 </table>
