@@ -23,6 +23,32 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
 - [🌌 diffusion-hub](https://github.com/bilalhsp/diffusion-hub) — A framework for training diffusion models across different applications  
 - [🎧 audio-dnn](https://github.com/bilalhsp/audio-dnn) — Training deep neural networks for audio processing  
 
+---
+
+<table>
+  <tr>
+    <td width="55%">
+      
+      ### 📊 GitHub Stats  
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhsp&layout=compact&theme=tokyonight)
+    
+    </td>
+    <td width="45%">
+      
+      ### 🌐 Find me around the web  
+      - 🌍 Personal Website: [bilalhsp.github.io](https://bilalhsp.github.io/)  
+      - 📄 Google Scholar: [Profile](https://scholar.google.com/) <!-- replace with actual link -->  
+      - 💼 LinkedIn: [linkedin.com/in/bilalhsp](https://www.linkedin.com/in/bilalhsp)  
+    
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
+
 
 ---
 
