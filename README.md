@@ -34,6 +34,9 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
 
 ---
 
+
+
+<!--
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -51,7 +54,6 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
   </tr>
 </table>
 
-<!--
 
 ## Hi there 👋
 - 🔭 I’m currently working on:
