@@ -36,7 +36,10 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
 
 
 
+
+
 <!--
+
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -47,13 +50,11 @@ Currently, I’m exploring how **deep neural networks** can help explain **audit
       <h3>🌐 Find me around the web</h3>
       <ul>
         <li>🌍 <a href="https://bilalhsp.github.io/">Personal Website</a></li>
-        <li>📄 <a href="https://scholar.google.com/">Google Scholar</a> <!-- replace with actual link --></li>
         <li>💼 <a href="https://www.linkedin.com/in/bilalhsp">LinkedIn</a></li>
       </ul>
     </td>
   </tr>
 </table>
-
 
 ## Hi there 👋
 - 🔭 I’m currently working on:
