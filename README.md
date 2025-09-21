@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋  
 
-I'm **Bilal Ahmed**, a PhD student broadly interested in **machine learning, generative models, and neuroscience**.  
-Currently, I’m exploring how **deep neural networks can help explain auditory cortex activity** and how **diffusion models** can be applied to solve inverse problems.  
+I'm **Bilal Ahmed** 🎓, a PhD student broadly interested in **machine learning 🤖, generative models ✨, and neuroscience 🧠**.  
+Currently, I’m exploring how **deep neural networks** can help explain **auditory cortex activity 🎧** and how **diffusion models 🌌** can be applied to solve **inverse problems 🔍**.  
 
 ---
 
@@ -34,7 +34,6 @@ Currently, I’m exploring how **deep neural networks can help explain auditory 
 ---
 
 ### 📊 GitHub Stats
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalhsp&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhsp&layout=compact&theme=tokyonight)
 
 
