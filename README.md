@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
-I'm **Bilal Ahmed** 🎓, a PhD student broadly interested in **machine learning 🤖, generative models ✨, and neuroscience 🧠**.  
-Currently, I’m working on solving **inverse problems 🔍** using **diffusion models 🌌** and exploring how **deep neural networks** can help understand the **auditory cortex activity 🎧**.  
+I'm Bilal Ahmed 🎓, a PhD student broadly interested in machine learning 🤖, generative models ✨, and computational imaging 🖼️.
+Currently, I’m applying diffusion models 🌌 to solve inverse problems 🔍 and exploring how deep neural networks can model neural activity in the auditory cortex 🎧.
 
 ---
 
