@@ -38,7 +38,9 @@
   applications
   - [audio-dnn](https://github.com/bilalhsp/audio-dnn) — Training deep neural networks for audio processing
 
+### Innovation & Team Projects
 
+- [Fieldwork](https://github.com/bilalhsp/PurdueInnovate) — A team-built spraying operations planner, awarded **Most Impactful Idea** at the **2026 Purdue + Google AI Summit Innovation Sprint**.
 
 
 <!--
